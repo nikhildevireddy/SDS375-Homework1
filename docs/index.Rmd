@@ -1,0 +1,31 @@
+---
+title: "Nikhil Devireddy"
+image: "nikhilheadshot.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/nikhildevireddy"
+  - label: GitHub
+    url: "https://github.com/nikhildevireddy"
+  - label: Email
+    url: "mailto:nikhildevireddy@utexas.edu"
+output:
+  postcards::jolla
+---
+ 
+I am a junior from San Jose, California who is attending the University of Texas 
+at Austin studying Statistics and Data Science. In my free time, I enjoy
+watching and playing football, going on hikes, and working out.
+
+Here are some of my favorite TV shows:
+
+<div style="text-align: center;">
+
+<ul style="display: inline-block; text-align: left;">
+  <li>Breaking Bad</li>
+  <li>Game of Thrones</li>
+  <li>The Office</li>
+  <li>The Last Airbender</li>
+</ul>
+
+</div>
+
